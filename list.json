@@ -1,4 +1,8 @@
 {
-    "pairs": ["XRP/USDT", "ETH/USDT", "LTC/USDT"],
+    "pairs": [
+        "XRP/USDT",
+        "ETH/USDT",
+        "LTC/USDT"
+    ],
     "refresh_period": 1800
 }
